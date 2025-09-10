@@ -49,4 +49,4 @@ A humble request: if these codes help your work, kindly acknowledge them in your
 
 License
 
-Reproducing and clamining this work is illegal.
+Reproducing and claiming this work is illegal.
